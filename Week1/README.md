@@ -1,9 +1,17 @@
 ## **Setup Environment**
 - Create Github Repository
-- Install Ubuntu Desktop
+- [Install Ubuntu Desktop](https://ubuntu.com/download/desktop/thank-you?version=20.04.2.0&architecture=amd64)
 - Install Python 3.6 or later
+```shell
+sudo apt-get install python3
+sudo apt-get install python3-pip3
+```
 - Install OpenCV for Python
-
+```shell
+sudo apt-get install python3-opencv
+```
+- [Install Vivado](https://www.xilinx.com/support/download.html)
+- [Install Modelsim](https://fpgasoftware.intel.com/?product=modelsim_ae#tabs-2)
 ## **Write a "Hello world" app**
 ```python
 import cv2
