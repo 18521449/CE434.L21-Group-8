@@ -4,7 +4,7 @@
 - Install Python 3.6 or later
 ```shell
 sudo apt-get install python3
-sudo apt-get install python3-pip3
+sudo apt-get install python3-pip
 ```
 - Install OpenCV for Python
 ```shell
