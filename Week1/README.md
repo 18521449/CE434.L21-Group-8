@@ -7,7 +7,6 @@
 ## **Write a "Hello world" app**
 ```python
 import cv2
-import numpy as np
 
 # Open a video stream from laptop's built-in webcam
 cap = cv2.VideoCapture(0)
